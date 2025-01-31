@@ -1,12 +1,12 @@
-# 🌸 Welcome to My GitHub Realm! 🌸
+# 🌸 Welcome to My GitHub! 🌸
 
-> *"Code like no one's watching, debug like the whole world's judging!"* 🤓⚡
+> *"Code like no one's watching, debug like the whole world's judging!"* 
 
 ---
 
 ### 🧑‍💻 About Me
 
-🍙 **Name:** Digital Wanderer (aka your coding Senpai)  
+🍙 **Name:** Digital Wanderer  
 🍵 **Favorite Jutsu:** Full-Stack Ninjutsu 🥷💻  
 🎨 **Skills:**  
 - Frontend Sorcery: React, TypeScript, Tailwind  
