@@ -1,4 +1,4 @@
-# 🌸 Welcome to My GitHub! 🌸
+# Welcome to My GitHub! 
 
 > *"Code like no one's watching, debug like the whole world's judging!"* 
 
@@ -7,7 +7,7 @@
 ### 🧑‍💻 About Me
 
 🍙 **Name:** Digital Wanderer  
-🍵 **Favorite Jutsu:** Full-Stack Ninjutsu 🥷💻  
+🍵 **Favorite Jutsu:** Full-Stack 🥷💻  
 🎨 **Skills:**  
 - Frontend Sorcery: React, TypeScript, Tailwind  
 - Backend Alchemy: Node.js, Python, SQL  
